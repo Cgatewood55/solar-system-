@@ -1,0 +1,76 @@
+{
+    "planets": [
+        {
+            "name":"Mercury",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Venus",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Earth",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Mars",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Jupiter",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Saturn",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Uranus",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Neptune",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        },
+        {
+            "name":"Pluto",
+            "imageUrl": "",
+            "description": "",
+            "isGasPlanet": true,
+            "numberOfMoons":"",
+            "nameOfLargestMoon": ""
+        }
+    ]
+}
